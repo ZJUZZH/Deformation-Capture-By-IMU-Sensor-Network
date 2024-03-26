@@ -16,7 +16,9 @@ Our work presents a configurable self-sensing IMU sensor network designed to bri
 
 ## Experimental Results
 
-Our experimental results show that the proposed method achieves performance comparable with state-of-the-art methods, marking a significant advancement in the field of motion capture technology.
+Our experimental results indicate that the proposed method's performance is on par with current state-of-the-art methods, representing a positive step forward in the field of deformation capture technology.
+
+![Comparisons with Existing Researches](Figures/results.png)
 
 ## Project 
 
