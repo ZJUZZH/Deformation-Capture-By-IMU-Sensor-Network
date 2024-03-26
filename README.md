@@ -11,7 +11,7 @@ Our work presents a configurable self-sensing IMU sensor network designed to bri
 ## Key Contributions
 
 - **Kinematic Chain Model:** A new model based on the four-bar linkage is proposed to describe the minimum deformation process of 3D deformations accurately.
-- **Geometric Priors:** Utilization of initial shape, material properties, and motion features as geometric priors to assist the kinematic chain model in reconstructing deformations, addressing the data sparsity problem.
+- **Geometric Priors:** Utilization of initial shape, material properties, and motion features as geometric priors to assist the kinematic chain model in reconstructing deformations.
 - **Customizable 3D Sensor Networks:** A fabrication method for customizing 3D sensor networks for different objects, inspired by origami, facilitating a 3D–2D–3D digital–physical transition.
 
 ## Experimental Results
