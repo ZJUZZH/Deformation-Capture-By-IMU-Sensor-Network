@@ -5,9 +5,12 @@ The download link contains the Unity project code for the paper's evaluation sec
 Additionally, upon running the project directly, Unity should display content similar to the following image (test.png), with 30 nodes attached to the surface of a rotating parabolic surface, indicating successful initialization. To further read sensor data and reconstruct shapes in Unity, modify the debug_flag in the initialParameters.txt file (located at: Assets/Scripts/controler/initialParameters.txt) to true, and run the serialread.py file (located at: Assets/Scripts/python/serialread.py). This Python file will read data from all sensor nodes via serial port and save it to TXT files for Unity to read.
 
 <div align=center>
-<img src="test.png" width="40%">
+<img src="test.png" width="50%">
 </div>
 
 
 Furthermore, three additional images explaining the principles of the motion chain model and code interpretation are provided for your reference. 
   
+<div align=center>
+<img src="chain_model.png" width="30%"><img src="C#_code_1.png" width="30%"><img src="C#_code_2.png" width="30%">
+</div>
