@@ -6,7 +6,7 @@ Motion capture technologies are crucial for reconstructing human movements and h
 
 The research on motion capture technologies can be broadly categorized into two methods: vision-based and IMU-based. While vision-based methods offer high accuracy in capturing complex 3D geometrical deformations, they rely on costly optical equipment and are limited by the line-of-sight occlusion problem. On the other hand, IMU-based methods are more lightweight but struggle to accurately capture fine-grained 3D deformations.
 
-Our work presents a configurable self-sensing IMU sensor network designed to overcome these limitations. By proposing a novel kinematic chain model and introducing three geometric priors, our approach enhances the accuracy of 3D deformation capture.
+Our work presents a configurable self-sensing IMU sensor network designed to bridge the gap between vision-based methods and IMU-based methods. By proposing a novel kinematic chain model and introducing three geometric priors, our approach enhances the accuracy of 3D deformation capture.
 
 ## Key Contributions
 
