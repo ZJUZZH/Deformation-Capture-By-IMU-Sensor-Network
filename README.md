@@ -1,6 +1,6 @@
 # 3D Deformation Capture via A Configurable Self-Sensing IMU Sensor Network
 
-Motion capture technologies are crucial for reconstructing human movements and have applications across various domains. This project introduces a novel approach to motion capture, leveraging a configurable self-sensing IMU sensor network to effectively bridge the gap between traditional vision-based and IMU-based methods.
+Motion capture technologies are crucial for reconstructing human movements and have applications across various domains. This project introduces a novel approach to fine-grained motion capture (i.e., deformation capture), leveraging a configurable self-sensing IMU sensor network to effectively bridge the gap between traditional vision-based and IMU-based methods.
 
 ## Introduction
 
@@ -38,6 +38,8 @@ Our experimental results show that the proposed method achieves performance comp
 
 *Arm test prototypes demonstrating the application of the sensor network.*
 
+
 ## Reference
 
-Zihong Zhou, Pei Chen, Yinyu Lu, Qiang Cui, Deying Pan, Yilun Liu, Jiaji Li, Yang Zhang, Ye Tao, Xuanhui Liu, Lingyun Sun, and Guanyun Wang. 2023. 3D Deformation Capture via A Configurable Self-Sensing IMU Sensor Network. *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.* 7, 1, Article 42 (March 2023), 24 pages.
+> Zihong Zhou, Pei Chen, Yinyu Lu, Qiang Cui, Deying Pan, Yilun Liu, Jiaji Li, Yang Zhang, Ye Tao, Xuanhui Liu, Lingyun Sun, and Guanyun Wang. 2023. **3D Deformation Capture via A Configurable Self-Sensing IMU Sensor Network**. *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.* 7, 1, Article 42 (March 2023), 24 pages. https://doi.org/10.1145/2766911
+
