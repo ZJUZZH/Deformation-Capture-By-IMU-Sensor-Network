@@ -12,13 +12,17 @@ Additionally, upon running the project directly, Unity should display content si
 Furthermore, three additional images explaining the principles of the motion chain model and code interpretation are provided for your reference. 
   
 <div align=center>
-<img src="chain_model.png" width="50%">
+<img src="chain_model.png" width="80%">
 </div>
 
-<div align=center>
-<img src="https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/25779479d9539c7a32cd02855e1b5011af729a83/unity/C%23_code_1.png" width="60%">
-</div>
+--------------------------------------------------------------------------------------------------------------------------
 
 <div align=center>
-<img src="https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/25779479d9539c7a32cd02855e1b5011af729a83/unity/C%23_code_2.png" width="60%">
+<img src="https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/25779479d9539c7a32cd02855e1b5011af729a83/unity/C%23_code_1.png" width="80%">
+</div>
+
+--------------------------------------------------------------------------------------------------------------------------
+
+<div align=center>
+<img src="https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/25779479d9539c7a32cd02855e1b5011af729a83/unity/C%23_code_2.png" width="80%">
 </div>
