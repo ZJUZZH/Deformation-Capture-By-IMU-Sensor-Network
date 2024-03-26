@@ -12,5 +12,7 @@ Additionally, upon running the project directly, Unity should display content si
 Furthermore, three additional images explaining the principles of the motion chain model and code interpretation are provided for your reference. 
   
 <div align=center>
-<img src="chain_model.png" width="30%"><img src="C#_code_1.png" width="30%"><img src="C#_code_2.png" width="30%">
+<img src="chain_model.png" width="30%">
+<img src="C#_code_1.png" width="30%">
+<img src="C#_code_2.png" width="30%">
 </div>
