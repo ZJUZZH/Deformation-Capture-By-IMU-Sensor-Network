@@ -18,7 +18,7 @@ Our work presents a configurable self-sensing IMU sensor network designed to ove
 
 Our experimental results show that the proposed method achieves performance comparable with state-of-the-art methods, marking a significant advancement in the field of motion capture technology.
 
-## Project Structure
+## Project 
 
 ### Architecture
 
@@ -41,5 +41,5 @@ Our experimental results show that the proposed method achieves performance comp
 
 ## Reference
 
-> Zihong Zhou, Pei Chen, Yinyu Lu, Qiang Cui, Deying Pan, Yilun Liu, Jiaji Li, Yang Zhang, Ye Tao, Xuanhui Liu, Lingyun Sun, and Guanyun Wang. 2023. **3D Deformation Capture via A Configurable Self-Sensing IMU Sensor Network**. *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.* 7, 1, Article 42 (March 2023), 24 pages. https://doi.org/10.1145/2766911
+> Zihong Zhou, Pei Chen, Yinyu Lu, Qiang Cui, Deying Pan, Yilun Liu, Jiaji Li, Yang Zhang, Ye Tao, Xuanhui Liu, Lingyun Sun, and Guanyun Wang. 2023. **3D Deformation Capture via A Configurable Self-Sensing IMU Sensor Network**. *Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.* 7, 1, Article 42 (March 2023), 24 pages. https://doi.org/10.1145/3580874
 
