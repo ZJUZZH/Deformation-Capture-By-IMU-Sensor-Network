@@ -1,0 +1,1 @@
+The arduino board library:  https://github.com/MCUdude/MiniCore.git
