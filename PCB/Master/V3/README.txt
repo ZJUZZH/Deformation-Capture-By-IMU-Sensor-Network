@@ -1,0 +1,1 @@
+Arduino version: Seeed Studio XIAO nRF52840 Sense
