@@ -18,25 +18,25 @@ Our work presents a configurable self-sensing IMU sensor network designed to bri
 
 Our experimental results indicate that the proposed method's performance is on par with current state-of-the-art methods, representing a positive step forward in the field of deformation capture technology.
 
-![Comparisons with Existing Researches](Figures/results.png)
+![Comparisons with Existing Researches](Figures/results.jpg)
 
 ## Project 
 
 ### Architecture
 
-![Architecture of the Sensor Network](Figures/The_architecture_of_the_sensor_network.png)
+![Architecture of the Sensor Network](Figures/The_architecture_of_the_sensor_network.jpg)
 
 *The architecture of the sensor network and its hardware implementation.*
 
 ### Customized Construction Pipeline
 
-![Customized Construction Pipeline of a Wearable 3D Sensor Network](Figures/The_customized_construction_pipeline.png)
+![Customized Construction Pipeline of a Wearable 3D Sensor Network](Figures/The_customized_construction_pipeline.jpg)
 
 *The customized construction pipeline of a wearable 3D sensor network.*
 
 ### Prototypes
 
-![Arm Test Prototypes](Figures/Arm_test_prototypes.png)
+![Arm Test Prototypes](Figures/Arm_test_prototypes.jpg)
 
 *Arm test prototypes demonstrating the application of the sensor network.*
 
