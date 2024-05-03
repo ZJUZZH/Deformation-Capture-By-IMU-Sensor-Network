@@ -18,26 +18,25 @@ Our work presents a configurable self-sensing IMU sensor network designed to bri
 
 Our experimental results indicate that the proposed method's performance is on par with current state-of-the-art methods, representing a positive step forward in the field of deformation capture technology.
 
-![Comparisons with Existing Researches](img/results.jpg)
+![Comparisons with Existing Researches](https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/main/img/results.jpg)
 
 ## Project 
 
 ### Architecture
 
-![Architecture of the Sensor Network](img/The_architecture_of_the_sensor_network.jpg)
+![Architecture of the Sensor Network](https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/main/img/The_architecture_of_the_sensor_network.jpg)
 
 *The architecture of the sensor network and its hardware implementation.*
 
 ### Customized Construction Pipeline
 
-![Customized Construction Pipeline of a Wearable 3D Sensor Network](img/The_customized_construction_pipeline.jpg)
+![Customized Construction Pipeline of a Wearable 3D Sensor Network](https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/main/img/The_customized_construction_pipeline.jpg)
 
 *The customized construction pipeline of a wearable 3D sensor network.*
 
 ### Prototypes
 
 ![Arm Test Prototypes](https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/main/img/Arm_test_prototypes.jpg)
-<src="https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/main/img/Arm_test_prototypes.jpg">
 
 *Arm test prototypes demonstrating the application of the sensor network.*
 
