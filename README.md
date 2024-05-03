@@ -36,7 +36,7 @@ Our experimental results indicate that the proposed method's performance is on p
 
 ### Prototypes
 
-![Arm Test Prototypes](https://github.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/blob/main/img/Arm_test_prototypes.jpg)
+![Arm Test Prototypes](https://raw.githubusercontent.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/main/img/Arm_test_prototypes.jpg)
 
 *Arm test prototypes demonstrating the application of the sensor network.*
 
