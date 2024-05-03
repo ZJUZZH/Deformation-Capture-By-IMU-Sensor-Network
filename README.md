@@ -18,7 +18,7 @@ Our work presents a configurable self-sensing IMU sensor network designed to bri
 
 Our experimental results indicate that the proposed method's performance is on par with current state-of-the-art methods, representing a positive step forward in the field of deformation capture technology.
 
-![Comparisons with Existing Researches](https://raw.githubusercontent.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/main/img/results.jpg)
+![Comparisons with Existing Researches](https://raw.githubusercontent.com/ZJUZZH/Deformation-Capture-By-IMU-Sensor-Network/main/img/Comparisons_with_Existing_Researches.jpg)
 
 ## Project 
 
